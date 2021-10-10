@@ -1,3 +1,2 @@
-CLEAR_DIR DLLS
-DOWNLOAD https://raw.githubusercontent.com/DeLuxe1337001/CheatUpdater/main/Main.dll DLLS
+DOWNLOAD https://raw.githubusercontent.com/DeLuxe1337001/CheatUpdater/main/Main.dll DLLS TRUE
 RETURN Dll has been updated.
